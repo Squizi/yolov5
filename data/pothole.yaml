@@ -1,6 +1,6 @@
-train: content/dataset/train/
-val: content/dataset/val/
-test: content/dataset/test/
+train: /content/dataset/train/
+val: /content/dataset/val/
+test: /content/dataset/test/
 
 nc: 1
 names:
